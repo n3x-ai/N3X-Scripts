@@ -1,0 +1,3 @@
+[submodule "n3x-ai.github.io"]
+	path = n3x-ai.github.io
+	url = git@github.com:n3x-ai/n3x-ai.github.io.git
